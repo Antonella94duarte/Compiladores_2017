@@ -1,0 +1,12 @@
+ DOS_PUNTOS  
+ DOS_PUNTOS  
+LITERAL_NUM 
+ LITERAL_CADENA  
+$ no esperado
+$ no esperado
+$ no esperado
+LITERAL_NUM
+LITERAL_NUM
+LITERAL_NUM
+
+EOF
